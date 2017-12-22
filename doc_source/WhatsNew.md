@@ -1,6 +1,6 @@
 # Document History<a name="WhatsNew"></a>
 
-**Latest documentation update: ** November 20, 2017
+**Latest documentation update: ** December 21, 2017
 
 The AWS documentation team regularly polishes and enhances this guide\. We want it to be helpful\. Leave feedback to say what you want us to improve\! 
 
@@ -14,6 +14,7 @@ The following table describes the important changes to the *Amazon QuickSight Us
 
 | Change | Description | Date Changed | 
 | --- | --- | --- | 
+| New feature |  You can use Amazon QuickSight with Amazon S3 files that are in a different AWS account\. For more information, see [Data Sets Using S3 Files in Another AWS Account](using-s3-files-in-another-aws-account.md)\.   | November 20, 2017 | 
 | New visual types |  You can create visuals using maps\. You can also view tabular data in a visual\. For more information on preparing geospatial data for use in a visual, see [Adding Geospatial Data](geospatial-data-prep.md)\. For more information on creating a geospatial visual, see [Using Geospatial Charts \(Maps\)](geospatial-charts.md)\. For more information on using tabular reports, see [Using Tabular Reports](tabular.md)\.   | November 20, 2017 | 
 | New features | Amazon QuickSight can support 1000 columns in a data set\. For more information, see [Data Source Limits](data-source-limits.md)\. Calculated fields are supported in SPICE data sets\. For more information, see [Adding a Calculated Field to an Analysis](adding-a-calculated-field-analysis.md)\. Also, high cardinality values, which often display as a long tail on a visual, are placed into a category called other\. For more information, see [Working with Visual Types in Amazon QuickSight](working-with-visual-types.md)\. | November 20, 2017 | 
 |  New feature  |  In Enterprise edition, you can restrict access to a data set by adding row\-level security\. To learn more, see [ Restricting Access to a Data Set by Using Row\-Level Security](restrict-access-to-a-data-set-using-row-level-security.md)\.   | October 20, 2017 | 

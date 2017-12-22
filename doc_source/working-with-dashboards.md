@@ -10,7 +10,5 @@ Use the following sections to learn how to create, share, and view dashboards\.
 + [Creating and Sharing a New Dashboard](creating-a-dashboard.md)
 + [Copying a Dashboard](copying-a-dashboard.md)
 + [Deleting a Dashboard](deleting-a-dashboard.md)
-+ [Viewing Dashboard Data](viewing-dashboard-data.md)
-+ [Export Data from a Dashboard to a CSV file](export-dashboard-to-csv.md)
-+ [Filtering Dashboard Data](filtering-dashboard-data.md)
 + [Sharing Dashboards](sharing-a-dashboard.md)
++ [Using Dashboards in Amazon QuickSight](using-dashboards.md)

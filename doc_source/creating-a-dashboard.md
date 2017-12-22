@@ -1,33 +1,45 @@
 # Creating and Sharing a New Dashboard<a name="creating-a-dashboard"></a>
 
-Use the following procedure to create and share a dashboard\.
+Use the following procedure to create and optionally share a dashboard\.
 
-1. On the analysis page, choose **Share** on the application bar and then choose **Create dashboard**\.  
+1. On the analysis page, choose **Share** on the application bar, and then choose **Create dashboard**\.  
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/create-dashboard0.png)
-
-1. Do one of the following options:
-
-   + Choose **Create new dashboard as** and then type a dashboard name\.  
-![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/create-dashboard1.png)
-
-   + Choose **Replace an existing dashboard** and then choose the dashboard to replace\.  
-![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/create-dashboard2.png)
-
-1. Choose **Create dashboard**\.
-
-1. \(Optional\) If you want to share the dashboard right away, type the Amazon QuickSight user name of a person you want to share the dashboard with in the **Type a user name or email** box, and then press **Enter**\. Repeat this step until you have entered information for everyone you want to share the dashboard with\.
-
-   You can always share the dashboard later instead, after you have created it\.
-**Note**  
-Users who receive access to the dashboard also receive access to the underlying data used to create the analysis the dashboard is based on\.  
-![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/publish-dashboard.png)
 
 1. Do one of the following:
 
-   + If you entered users with whom to share the dashboard, choose **Share**\.
+   + Choose **Create new dashboard as**, and then type a dashboard name\.
 
-   + If you don't want to share the dashboard right now, choose **Cancel**\. You can always share the dashboard later by using the sharing option on the dashboard page\.
+   + Choose **Replace an existing dashboard**, and then choose the dashboard to replace\.  
+![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/create-dashboard1.png)
 
-   The dashboard is created, and any users you have shared the dashboard with receive email with a link that gives them access to the dashboard\.
+1. Choose **Create dashboard**\.
 
-1. \(Optional\) 
+1. Do one of the following:
+
+   + Choose **Cancel** on the **Share with users in your account** screen to create a dashboard without sharing it now\. Then, on the **Dashboard sharing** screen, choose **Close**\. Doing this completes creating the dashboard\. You can always share the new dashboard later\.
+
+   + Type the email or user name you want to share with on the **Share with users in your account** screen to create a dashboard and share it now\. Then choose the user from the list that appears\. Users who haven't yet used Amazon QuickSight don't appear in the list\.
+**Important**  
+Users who can access to the dashboard can also access the data used in the dashboard\.  
+![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/create-dashboard2.png)
+
+     To add more users, choose **\+**\. Then type each user's email or user name\. You can remove users by choosing the trashcan icon near the user that you want to remove\.  
+![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/create-dashboard3.png)
+
+     Repeat this step until you have entered everyone that you want to share with, and then choose **Share** to confirm your choices\.
+
+1. \(Optional\) If you shared the dashboard in the previous step, the **Dashboard sharing** screen appears\. Choose the users that you want to allow to create analyses based on the shared dashboard\.   
+![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/create-dashboard4.png)
+
+   To allow a user to create analyses, choose **Can create analyses** near that user's name\. To revoke this access, choose **x** by that user's name\. 
+
+   To add more users, choose **Invite user**\. By doing this, you can add more users before closing this screen\. You can also access this screen again by choosing to share the dashboard later\.
+
+   To reshare the dashboard with the user, choose the **Reshare** icon next to that user's name\. Doing this sends them a new notification email\.
+
+   Choose **Close** when you're finished on this screen\. If you let other users create analyses from your dashboard, a confirmation dialog box appears, shown following\.  
+![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/create-dashboard5.png)
+
+   Choose **Confirm** to confirm that you grant the users read\-only access to the data\. Choose **Back** to change your choices on the previous screen before confirming\.
+
+With this step, you've completed creating and sharing the dashboard\. The new dashboard users now receive email with a link to the dashboard\.
