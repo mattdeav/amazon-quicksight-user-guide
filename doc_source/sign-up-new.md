@@ -2,7 +2,7 @@
 
 If you are new to AWS and don't have any AWS resources that you want to make available in Amazon QuickSight, use the following procedure to create an Amazon QuickSight Standard edition account\. If you want to connect to AWS resources, or integrate user accounts from a Microsoft AD directory in AWS Directory Service, see [Sign Up for Amazon QuickSight with an Existing AWS Account](sign-up-existing.md) for more information\.
 
-When you have finished signing up, you can proceed with connecting to data and creating analyses\. For more information about creating your first analysis, see [Getting Started](getting-started.md)\. You can also invite other users to access Amazon QuickSight\. For more information, see [Managing User Accounts in Amazon QuickSight Standard Edition](managing-users.md)\.
+When you have finished signing up, you can proceed with connecting to data and creating analyses\. For more information about creating your first analysis, see [Getting Started with Data Analysis in Amazon QuickSight](getting-started.md)\. You can also invite other users to access Amazon QuickSight\. For more information, see [Managing User Accounts in Amazon QuickSight Standard Edition](managing-users.md)\.
 
 **To create an AWS account and an Amazon QuickSight account**
 

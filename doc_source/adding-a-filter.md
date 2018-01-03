@@ -11,7 +11,7 @@ If you create a filter on the `sales` field with the criteria `sales < 400` and 
 Take care that multiple filters applied to the same field aren't mutually exclusive\. For example, if you create a filter on the `sales` field with the criteria `sales < 400` and another filter with the criteria `sales > 500`, the data set contains no data\. This result is because the sales amount can't be less than $400 and greater than $500 at the same time\.
 
 **Note**  
-The data preview shows you the results of your combined filters, only as they apply to the first thousand rows\. If all of the first 1000 rows are filtered out, then no rows show in the preview\. This result happens even when rows after the first 1000 aren't filtered out\.
+The data preview shows you the results of your combined filters, only as they apply to the first 1000 rows\. If all of the first 1000 rows are filtered out, then no rows show in the preview\. This result happens even when rows after the first 1000 aren't filtered out\.
 
 
 + [Viewing Filters](viewing-filters-data-prep.md)

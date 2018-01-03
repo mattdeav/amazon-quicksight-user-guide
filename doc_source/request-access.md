@@ -9,7 +9,7 @@ For Standard edition accounts, your Amazon QuickSight administrator can give you
 
 If you have an Enterprise edition account, your Amazon QuickSight administrator must add your network user account to an active directory group that is associated with Amazon QuickSight\. Use the [Getting Access as a New Amazon QuickSight Enterprise Edition User](#request-access-enterprise) section for more information about signing up as an Enterprise edition user\. 
 
-After you sign in for the first time, you can connect to data and creating analyses\. For more information about creating your first analysis, see [Getting Started](getting-started.md)\.
+After you sign in for the first time, you can connect to data and creating analyses\. For more information about creating your first analysis, see [Getting Started with Data Analysis in Amazon QuickSight](getting-started.md)\.
 
 ## Getting Access as a New Amazon QuickSight Standard Edition User<a name="request-access-standard"></a>
 

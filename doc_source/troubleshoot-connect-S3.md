@@ -6,23 +6,23 @@ To verify authentication, make sure you authorized Amazon QuickSight to access t
 
 **Authorizing Amazon QuickSight to access your Amazon S3 bucket**
 
-1.  If you have Enterprise edition, temporarily switch to the US East \(N\. Virginia\) region \(top right\), while you edit your account permissions\. 
+1. You must temporarily switch to the US East \(N\. Virginia\) region \(top right\), while you edit your account permissions\. 
 
-1.  Inside of Amazon QuickSight, choose your profile name \(very top right\)\. Choose **Manage QuickSight**\. 
+1. Inside of Amazon QuickSight, choose your profile name \(very top right\)\. Choose **Manage QuickSight**\. 
 
-1.  Then choose **Account Settings**, on the left\. 
+1. Then choose **Account Settings**, on the left\. 
 
-1.  From the **Account Settings** page, choose **Edit AWS permissions**\. 
+1. From the **Account Settings** page, choose **Edit AWS permissions**\. 
 
-1.  If **Amazon S3** is check\-marked, you can see how many buckets are authorized\. 
+1. If **Amazon S3** is check\-marked, you can see how many buckets are authorized\. 
 
-1.  To select individual buckets, choose **Choose S3 buckets**\.
+1. To select individual buckets, choose **Choose S3 buckets**\.
 
-1.  Select the buckets you want to access from Amazon QuickSight\. Then choose **Select buckets**\.
+1. Select the buckets you want to access from Amazon QuickSight\. Then choose **Select buckets**\.
 
-1.  Choose **Apply**\.
+1. Choose **Apply**\.
 
-1.  If you changed your region during the first step of this process, change it back to the region you want to use\.
+1. If you changed your region during the first step of this process, change it back to the region you want to use\.
 
 It is crucial to make sure your manifest file is valid\. If Amazon QuickSight can't parse your file, it will give you an error similar to "We can't parse the manifest file as a valid JSON" or "We can't connect to the S3 bucket"\.
 

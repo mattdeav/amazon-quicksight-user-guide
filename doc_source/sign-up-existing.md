@@ -25,7 +25,7 @@ After you have completed any needed configuration of your existing AWS resources
 
    1. If you don't want to integrate user accounts from an active directory, follow the instructions in [Create an Amazon QuickSight Standard Edition Account](#sign-up-existing-standard)\.
 
-When you have finished signing up, you can connect to your data and start to create analyses\. For more information about creating your first analysis, see [Getting Started](getting-started.md)\. 
+When you have finished signing up, you can connect to your data and start to create analyses\. For more information about creating your first analysis, see [Getting Started with Data Analysis in Amazon QuickSight](getting-started.md)\. 
 
 For more information about managing users in Amazon QuickSight Standard edition, see [Managing User Accounts in Amazon QuickSight Standard Edition](managing-users.md)\. 
 

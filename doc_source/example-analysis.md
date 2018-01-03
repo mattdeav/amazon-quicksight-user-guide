@@ -1,4 +1,4 @@
-# Tutorial: Create A Multi\-Visual Analysis and a Dashboard Using Sample Data<a name="example-analysis"></a>
+# Tutorial: Create A Multivisual Analysis and a Dashboard Using Sample Data<a name="example-analysis"></a>
 
 Use the procedures in the following sections to complete these tasks:
 
