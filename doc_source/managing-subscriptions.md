@@ -1,6 +1,6 @@
 # Managing Subscriptions<a name="managing-subscriptions"></a>
 
-Purchase subscriptions to get discounted pricing on Amazon QuickSight\. When you create an Amazon QuickSight account, you automatically get one free user account\. When you invite additional users to Amazon QuickSight, you are charged for those user accounts on a month\-by\-month basis\. When you purchase a subscription, you pay for a user account on an annual rather than monthly basis, and receive a discounted price in return for the extended time commitment\. For more information about pricing, see [Amazon QuickSight](https://quicksight.aws)\.
+Purchase subscriptions to get discounted pricing on Amazon QuickSight\. When you create an Amazon QuickSight account, you automatically get one free user account\. When you invite additional users to Amazon QuickSight, you are charged for those user accounts on a month\-by\-month basis\. When you purchase a subscription, you pay for a user account on an annual rather than monthly basis, and receive a discounted price in return for the extended time commitment\. For more information about pricing, see [Amazon QuickSight](https://aws.amazon.com/quicksight/#Pricing)\.
 
 When you purchase a set of subscriptions, you choose the number of user accounts you want to cover, when it should start \(any time from the month following the current month, to one year in the future\), and whether or not it auto\-renews\. All subscriptions that you purchase together must use the values for these settings\.
 
@@ -10,10 +10,10 @@ You can edit an existing set of subscriptions to change whether or not it auto\-
 
 Use the following procedure to view your current subscriptions\.
 
-1. Choose your user name on the application bar and then choose **Manage QuickSight**\.  
+1. Choose your user name on the application bar and then choose **Manage QuickSight**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/admin-menu.png)
 
-1. Choose **Your Subscriptions**\.  
+1. Choose **Your Subscriptions**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/your-subscriptions.png)
 
 1. Use the subscription meter to see how many user accounts you have and what sort of billing they are on\. The types of user accounts shown are as follows:
@@ -30,74 +30,74 @@ Use the following procedure to view your current subscriptions\.
 
    + 7 users with annual subscriptions\. Note that only active subscriptions are shown here; subscriptions that have yet to start aren't reflected\.
 
-   + 13 month\-to\-month users\.  
+   + 13 month\-to\-month users\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/subscription-meter.png)
 
-   Hover over any section of the meter to get details on that user segment\.  
+   Hover over any section of the meter to get details on that user segment\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/subscription-meter-detail.png)
 
-1. Use the information in the subscriptions table to see what current and future subscriptions you have\.  
+1. Use the information in the subscriptions table to see what current and future subscriptions you have\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/subscriptions.png)
 
 ## Purchase Subscriptions<a name="buy-subscriptions"></a>
 
 Use the following procedure to purchase subscriptions\.
 
-1. Choose your user name on the application bar and then choose **Manage QuickSight**\.  
+1. Choose your user name on the application bar and then choose **Manage QuickSight**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/admin-menu.png)
 
-1. Choose **Your Subscriptions**\.  
+1. Choose **Your Subscriptions**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/your-subscriptions.png)
 
-1. Choose **Purchase subscription**\.  
+1. Choose **Purchase subscription**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/purchase-subscriptions.png)
 
-1. Choose or enter the number of subscriptions you want\.  
+1. Choose or enter the number of subscriptions you want\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/purchase1.png)
 
-1. Choose the month and year when the subscriptions will start\.  
+1. Choose the month and year when the subscriptions will start\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/purchase2.png)
 
-1. Choose whether or not the subscriptions auto\-renew\.  
+1. Choose whether or not the subscriptions auto\-renew\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/purchase3.png)
 
-1. Choose **Purchase subscription**\.  
+1. Choose **Purchase subscription**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/purchase4.png)
 
 ## Edit Subscriptions<a name="edit-subscriptions"></a>
 
 Use the following procedure to edit subscriptions\.
 
-1. Choose your user name on the application bar and then choose **Manage QuickSight**\.  
+1. Choose your user name on the application bar and then choose **Manage QuickSight**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/admin-menu.png)
 
-1. Choose **Your Subscriptions**\.  
+1. Choose **Your Subscriptions**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/your-subscriptions.png)
 
-1. Next to the set of subscriptions you want to change, choose **Edit**\.  
+1. Next to the set of subscriptions you want to change, choose **Edit**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/edit-subscriptions.png)
 
-1. \(Optional\) If the subscriptions haven't started yet, change the number of subscriptions you want\.  
+1. \(Optional\) If the subscriptions haven't started yet, change the number of subscriptions you want\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/edit3.png)
 
-1. Choose whether or not the subscriptions auto\-renew\.  
+1. Choose whether or not the subscriptions auto\-renew\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/edit2.png)
 
-1. Choose **Save changes**\.  
+1. Choose **Save changes**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/edit1.png)
 
 ## Delete Subscriptions<a name="delete-subscriptions"></a>
 
 Use the following procedure to delete subscriptions\. You can only delete subscriptions that haven't started yet\.
 
-1. Choose your user name on the application bar and then choose **Manage QuickSight**\.  
+1. Choose your user name on the application bar and then choose **Manage QuickSight**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/admin-menu.png)
 
-1. Choose **Your Subscriptions**\.  
+1. Choose **Your Subscriptions**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/your-subscriptions.png)
 
-1. Next to the set of subscriptions you want to delete, choose **Edit**\.  
+1. Next to the set of subscriptions you want to delete, choose **Edit**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/edit-subscriptions.png)
 
-1. Choose **Delete Subscription**\.  
+1. Choose **Delete Subscription**\.
 ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/quicksight/latest/user/images/edit4.png)
